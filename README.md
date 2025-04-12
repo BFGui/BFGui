@@ -1,13 +1,14 @@
 <div>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&fontAlignY=0"/>
 </div>
+## Olá! Eu sou o Guilherme Bretanha 👋/>
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=BFGui&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180cm" width="300cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BFGui&layout=compact&langs_count=16&theme=merko"/>
 </div>
 
 
-## Olá! Eu sou o Guilherme Bretanha 👋/>
+
 
 <!--
 **BFGui/BFGui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
