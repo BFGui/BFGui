@@ -5,11 +5,11 @@
 ## Olá! Eu sou o Guilherme Bretanha 👋/>
 
 <div>
-  <!--<img height="170cm"  src="https://github-readme-stats.vercel.app/api?username=BFGui&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>-->
-  <img width="500cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BFGui&layout=compact&langs_count=16&theme=merko"/>
+  <!<img height="170cm"  src="https://github-readme-stats.vercel.app/api?username=BFGui&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>-->
+  <img width="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BFGui&layout=compact&langs_count=16&theme=merko"/>
 </div>
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
