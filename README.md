@@ -1,5 +1,5 @@
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=66962C&text=Hi!%20welcome%20to%20my%20profile&fontAlignY=30&textBg=false&section=header&fontAlign=50&fontSize=50&animation=fadeIn&strokeWidth=0&descAlign=49&fontColor=FFE4C4&reversal=false&stroke=FAEBD7&desc=FFE4C4"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=66962C&text=Hi!%20welcome%20to%20my%20profile&fontAlignY=30&textBg=false&section=header&fontAlign=50&fontSize=50&animation=fadeIn&strokeWidth=0&descAlign=49&fontColor=FFE4C4&reversal=false&stroke=FAEBD7&desc=#FFE4C4"/>
 </div>
 
 ## Olá! Eu sou o Guilherme Bretanha 👋/>
