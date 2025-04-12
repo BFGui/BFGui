@@ -5,8 +5,8 @@
 ## Olá! Eu sou o Guilherme Bretanha 👋/>
 
 <div>
-  <img height="150cm"  src="https://github-readme-stats.vercel.app/api?username=BFGui&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BFGui&layout=compact&langs_count=16&theme=merko"/>
+  <img height="170cm"  src="https://github-readme-stats.vercel.app/api?username=BFGui&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BFGui&layout=compact&langs_count=16&theme=merko"/>
 </div>
 
 Here are some ideas to get you started:
