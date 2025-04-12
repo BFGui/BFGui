@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&fontAlignY=0"/>
 </div>
 
-<div>## Olá! Eu sou o Guilherme Bretanha 👋/></div>
+<div>## Olá! Eu sou o Guilherme Bretanha 👋/><br></div>
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=BFGui&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
